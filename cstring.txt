@@ -1,0 +1,1 @@
+HostName=tgw-hub.azure-devices.net;DeviceId=simatic_ipc127;SharedAccessKey=mCddXz1qLJ6Q+jeGpuedCmEcIHvbUex1nE23Crt5kG4=
